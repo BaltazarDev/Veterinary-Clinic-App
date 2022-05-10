@@ -1,0 +1,40 @@
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\Veterinary Clinic App.exe.config
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\Veterinary Clinic App.exe
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\Veterinary Clinic App.pdb
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormPrincipal.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.Properties.Resources.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.csproj.GenerateResource.cache
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.csproj.CoreCompileInputs.cache
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.exe
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.pdb
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.csprojAssemblyReference.cache
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormVenta.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\EntityFramework.dll
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\System.Data.SQLite.dll
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\System.Data.SQLite.EF6.dll
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\System.Data.SQLite.Linq.dll
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\EntityFramework.xml
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\System.Data.SQLite.xml
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\System.Data.SQLite.dll.config
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.csproj.CopyComplete
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\SQLite.Interop.dll
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormConsultarVenta.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormServicios.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormProductos.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.Login.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\bd_VCA.db3
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\Veterinary Clinic App.exe.manifest
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\bin\Debug\Veterinary Clinic App.application
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormAdminPacientes.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormConsultarPacientes.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormProveedores.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.TrustInfo.xml
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.exe.manifest
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary Clinic App.application
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormRegistrarPacientes.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormRegistrarPropietarios.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.InicioApp.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormAdministrarPropietarios.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormConsultarPropietarios.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormPrincipalAdmin.resources
+F:\balta\Documents\Visual Studio Proyectos\Veterinary Clinic App\obj\Debug\Veterinary_Clinic_App.FormHistorialPacientes.resources
